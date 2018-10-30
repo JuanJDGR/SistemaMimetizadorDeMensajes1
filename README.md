@@ -45,7 +45,7 @@ Descarga la libreria <DHT.h>, extrae los archivos de la carpeta comprimida y pos
 ![temperatura](https://user-images.githubusercontent.com/43178600/47745145-9d52b780-dc48-11e8-9151-c6e0629f907d.png)
 ![lcd](https://user-images.githubusercontent.com/43178600/47745146-9d52b780-dc48-11e8-93f8-35f99e5fd9d4.JPG)
 ![humedad](https://user-images.githubusercontent.com/43178600/47745148-9deb4e00-dc48-11e8-8dd4-0499b74ac863.jpg)
-![foto](https://user-images.githubusercontent.com/43178600/47745150-9deb4e00-dc48-11e8-9802-db0f6ac858be.png
+![foto](https://user-images.githubusercontent.com/43178600/47745150-9deb4e00-dc48-11e8-9802-db0f6ac858be.png)
 
 
 ## Imagenes del circuito 
