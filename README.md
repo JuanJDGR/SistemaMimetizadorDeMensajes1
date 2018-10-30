@@ -19,7 +19,7 @@ Display LCD 16x2
 Sensor DHT11
 Fotoresistencia LDR
 Potenciometro 10k
-Resistencias 330 ohms, 470 ohms, 10 Kohms
+Resistencias 330 ohms
 Cables Dupont(Jumpers) macho macho
 Cables de corriente
 Cable USB para arduino
