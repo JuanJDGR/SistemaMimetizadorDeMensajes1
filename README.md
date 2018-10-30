@@ -1,7 +1,7 @@
 #Sistema Mimetizador Visualizador de Mensajes
 
-##Presentación
-<img src="https://github.com/JuanJDGR/SistemaMimetizadorDeMensajes/blob/master/Captura.jpg">
+#Presentación
+
 
 Introduccion 
 
